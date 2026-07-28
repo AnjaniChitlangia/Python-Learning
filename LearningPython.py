@@ -36,4 +36,31 @@ val2 = False
 print("and operator",val1 and val2)
 print("or operator",val1 or val2)
 print(a==b or a>=b)"""
-
+#Type conversion 
+"""a=5 
+b=6.7
+sum=a+b
+print(sum)
+print(type(sum))"""
+#type casting 
+"""a=int("2")
+c=5
+print(a+c)
+b=3.14
+b=str(b)
+print(type(b))"""
+#input in pthon
+"""name= input("enter your name")
+print("Hello",name)"""
+#question 1
+"""a=float(input("Enter a number"))
+b=float(input("Enter another number"))
+sum=a+b
+print("The sum is:",sum)"""
+#question 2
+"""a=int(input("Side of a square"))
+print("The area of the square is:",a*a)"""
+#question 3
+a=float(input("Enter a number"))
+b=float(input("Enter another number"))
+print("The average is :" , (a+b)/2)
