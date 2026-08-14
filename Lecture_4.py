@@ -29,9 +29,9 @@ print(students.values())
 print(students.items())
 print(students.get("name "))
 students.update({"city": "Kolkata"})
-print(students)
+print(students)"""
 #sets
-collection = { 1,2,2,"HELLO ","HELLO "}
+"""collection = { 1,2,2,"HELLO ","HELLO "}
 print(collection)
 print(len(collection))
 print(type(collection))
